@@ -1,0 +1,8 @@
+#所有的iml 文件
+*.iml
+#.idea文件夹下所有文件
+.idea
+将删除 css/
+将删除 fonts/
+将删除 index.html
+将删除 js/
